@@ -11,6 +11,7 @@ SELECT CASE
        END                                        AS lga_code_2016,
        COALESCE(tot_p_m, 0)                       AS Tot_P_M,
        COALESCE(tot_p_f, 0)                       AS Tot_P_F,
+       COALESCE(tot_p_p, 0)                       AS Tot_P_P,
        COALESCE(age_0_4_yr_m, 0)                  AS Age_0_4_yr_M,
        COALESCE(age_0_4_yr_f, 0)                  AS Age_0_4_yr_F,
        COALESCE(age_0_4_yr_p, 0)                  AS Age_0_4_yr_P,
