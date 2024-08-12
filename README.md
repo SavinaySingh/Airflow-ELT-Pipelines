@@ -1,4 +1,4 @@
-- # Building ELT Data Pipelines with Airflow
+ # Building ELT Data Pipelines with Airflow
 
 <div align="center">
   <img width="800" alt="image" src="https://github.com/SavinaySingh/BDE_Assignment3/assets/21008903/ffe350da-b17a-4685-b071-84c598bbeac3">
